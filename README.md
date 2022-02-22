@@ -5,7 +5,7 @@ Below I offer a code of conduct aimed to be guarantee (as far as it's feasible) 
 
 Feel free to use adopt it if it's your thing. It's compatible, non-conflicting with almost any reasonable code of conduct imaginable and can be extended in any way you want.
 
-(WIP - feel free to send me your suggestions)
+(WIP - any suggestions?)
 
 ----
 
