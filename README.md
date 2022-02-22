@@ -1,11 +1,9 @@
 # the_non_bullshit_consensus
-A bit of (anti) politics for a fair and reasonable world. If you are here, it means you also feel that thing.
+A bit of rethinking behevior and patterns in the FLOSS community for a fair and reasonable world. If you are here, it means you also feel that thing.
 
-Below I offer a code of conduct that you could also use in your projects for easier, less non-sensical and safer work.
+Below I offer a code of conduct aimed to be guarantee (as far as it's feasible) a fair, reasonable way of conducting the project free of both politics, prejudices, hijack attempts and above all bullshit. 
 
-It's aimed to be guarantee (as far as it's feasible) a fair, reasonable way of conducting the project free of both politics, prejudices, hijack attempts and above all bullshit. 
-
-It's compatible, non-conflicting with almost any reasonable code of conduct imaginable and can be extended in any way you want.
+Feel free to use adopt it if it's your thing. It's compatible, non-conflicting with almost any reasonable code of conduct imaginable and can be extended in any way you want.
 
 (WIP - feel free to send me your suggestions)
 
