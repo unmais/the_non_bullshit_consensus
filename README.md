@@ -7,6 +7,8 @@ It's aimed to be guarantee (as far as it's feasible) a fair, reasonable way of c
 
 It's compatible, non-conflicting with almost any reasonable code of conduct imaginable and can be extended in any way you want.
 
+(WIP - feel free to send me your suggestions)
+
 ----
 
  THE NON BULLSHIT TEAM MEMBER CODE OF CONDUCT
