@@ -1,5 +1,5 @@
 # the_non_bullshit_consensus
-A bit of rethinking behevior and patterns in the FLOSS community for a fair and reasonable world. If you are here, it means you also feel that thing.
+A bit of rethinking behavior patterns in the FLOSS community for a fair and reasonable world. If you are here, it means you also feel that thing.
 
 Below I offer a code of conduct aimed to be guarantee (as far as it's feasible) a fair, reasonable way of conducting the project free of both politics, prejudices, hijack attempts and above all bullshit. 
 
